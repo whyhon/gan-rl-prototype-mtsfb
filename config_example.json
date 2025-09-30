@@ -1,0 +1,29 @@
+{
+    "ollama": {
+        "base_url": "http://localhost:11434",
+        "model": "gemma2:2b",
+        "temperature": 0.7,
+        "max_tokens": 150
+    },
+    "gan": {
+        "vocab_size": 500,
+        "training_epochs": 50,
+        "batch_size": 5
+    },
+    "rl": {
+        "learning_rate": 0.001,
+        "episodes": 50,
+        "max_steps_per_episode": 20,
+        "exploration_rate": 0.1
+    },
+    "testing": {
+        "num_baseline_tests": 15,
+        "num_adversarial_tests": 30,
+        "test_batch_size": 5
+    },
+    "output": {
+        "session_name": "demo_session",
+        "save_models": true,
+        "generate_plots": true
+    }
+}
