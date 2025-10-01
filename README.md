@@ -18,7 +18,19 @@ Available at: ResearchGate (https://www.researchgate.net/publication/395399694_T
 
 ## Citation
 
-If you use or refer to this framework in your research or implementation, please cite the original paper:
+If you use this prototype implementation in your research, please cite both the original framework and this implementation:
+
+```bibtex
+@software{gan-rl-prototype-mtsfb,
+  title={GAN-RL Red Teaming Framework Prototype Implementation},
+  author={Lim, Wai Hoon and Wan Ismail, Wan Izz Naeem},
+  year={2024},
+  note={Prototype implementation based on the framework by Ang, Chen Yi. Available at: https://www.researchgate.net/publication/395399694_Title_GAN-RL_Red_Teaming_Framework_Securing_Foundation_Models_through_Adversarial_AI_and_Risk_Management},
+  url={https://github.com/whyhon/gan-rl-prototype-mtsfb}
+}
+```
+
+If you use the original framework in your research or implementation, please cite the original paper:
 
 ```bibtex
 @article{chen2024gan,
