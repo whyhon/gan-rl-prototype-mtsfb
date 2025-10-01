@@ -4,24 +4,35 @@ A sophisticated adversarial testing framework that combines Generative Adversari
 
 ## Contributors
 
-This framework was developed by:
+This prototype was developed by:
 
 - **Ts. Lim Wai Hoon** - SG4 Vice Chair of MTSFB AI Task Force
-- **Mr. Ang Chen Yi** - SG4 Member and Author of the paper "GAN-RL Red Teaming Framework: Securing Foundation Models through Adversarial AI and Risk Management"
 - **Mr. Wan Izz Naeem bin Wan Ismail** - TM AI Engineer
+
+## Conceptual Framework;
+
+This prototype builds on the GAN-RL Red Teaming Framework originally proposed by:
+Ang, Chen Yi (2024) – GAN-RL Red Teaming Framework: Securing Foundation Models through Adversarial AI and Risk Management
+Available at: ResearchGate (https://www.researchgate.net/publication/395399694_Title_GAN-RL_Red_Teaming_Framework_Securing_Foundation_Models_through_Adversarial_AI_and_Risk_Management)
+
 
 ## Citation
 
-If you use this framework in your research, please cite:
+If you use or refer to this framework in your research or implementation, please cite the original paper:
 
 ```bibtex
 @article{chen2024gan,
   title={GAN-RL Red Teaming Framework: Securing Foundation Models through Adversarial AI and Risk Management},
-  author={Ang, Chen Yi and Lim, Wai Hoon and Wan Ismail, Wan Izz Naeem},
+  author={Ang, Chen Yi},
   year={2024},
-  note={Available at: https://github.com/[your-username]/GAN-RL_prototype}
+  note={Available at: https://www.researchgate.net/publication/395399694_Title_GAN-RL_Red_Teaming_Framework_Securing_Foundation_Models_through_Adversarial_AI_and_Risk_Management}
 }
 ```
+
+> **Intellectual Property Notice:**
+> This prototype implementation is based on a conceptual framework proposed by Chenyi Ang.
+> Use of this framework, including derivative implementations, may be subject to intellectual property rights.
+> The framework is currently patent pending, and all rights are reserved by the original author.
 
 ## Overview
 
